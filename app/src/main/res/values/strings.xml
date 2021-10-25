@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_brand">Audi, BMW oraz Mercedes to niemieckie marki samochodów.</string>
+    <string name="q_shop">Biedronka to portugalska sieć sklepów.</string>
+    <string name="q_windows">Windows jest darmowym system operacyjnym.</string>
+    <string name="q_word">Czy ten wyraz jest poprawny: na prawdę?</string>
+    <string name="q_height">Wysokość kosza do gry w koszykówkę wynosi 3.05.</string>
+
+    <string name="coorect_answer">Dobra odpowiedź!</string>
+    <string name="incoorect_answer">Zła odpowiedź!</string>
+</resources>
